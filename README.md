@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🌱 Hi there 👋
+
+🔭 I’m currently working on making Sustainable Finance work! Join me
 
 <!--
 **anbrog/anbrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
