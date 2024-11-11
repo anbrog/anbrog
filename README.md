@@ -1,6 +1,6 @@
 ## 🌱 Hi there 👋
 
-🔭 I’m currently working on making Sustainable Finance work! Join me
+🔭 I’m currently working on making Sustainable Finance work! Join me @ https://andreasbrogger.com
 
 <!--
 **anbrog/anbrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
